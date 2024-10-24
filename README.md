@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/2otm51Y.png)
 
-Serves as a central platform for showcasing various machine learning projects, examples, and resources. It aims to provide a comprehensive platform for learning, experimenting, and collaborating on all aspects of machine learning.
+Showcase diverse ML projects, examples & resources. Learn, experiment & collaborate on all aspects of ML. Build models that learn from data & make predictions or decisions. Utilize techniques like linear regression, decision trees, neural networks & support vector machines. 
 
 ### Projects
 
